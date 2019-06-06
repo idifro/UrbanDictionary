@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665868871529",
+    "firebase_url": "https://urbandictionary-20b4c.firebaseio.com",
+    "project_id": "urbandictionary-20b4c",
+    "storage_bucket": "urbandictionary-20b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665868871529:android:590e3ed98f3a48f0",
+        "android_client_info": {
+          "package_name": "io.brink.urbandictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665868871529-51drteetimvlum4g60feek5a9on66m52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.brink.urbandictionary",
+            "certificate_hash": "793c183292df64025f32711a8a5a81bb6f37be09"
+          }
+        },
+        {
+          "client_id": "665868871529-navnisfafn22c03ftor93v6ch5qe4dnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZmKTXHKlQyzdwzD7o-JoaoIpvfabi88U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665868871529-navnisfafn22c03ftor93v6ch5qe4dnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
